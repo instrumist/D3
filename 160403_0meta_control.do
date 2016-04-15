@@ -1,5 +1,6 @@
-ssc install xtabond2, replace
+﻿ssc install xtabond2, replace
 
+* Git practice wqwqwqeqe
 * 0. Make sure the mat2txt2 is installed in your STATA!
 * 1. Check window version and choose appropriate compressor(7zip or native winzip)
 * 2. Sample run시 최소 ARG까지 포함시킬것!
